@@ -13,4 +13,8 @@ I'm Ângelo Francisco, programmer and for ever a student. Currently with my 15 y
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width=50px/>
 </div>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=angelo-francisco&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=1000" alt="GitHub Streak" /></a>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=angelo-francisco&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=800)](https://git.io/streak-stats)
+  
+</div>
