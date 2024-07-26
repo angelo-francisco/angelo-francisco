@@ -4,9 +4,11 @@
 
 </div>
 
-> *Being myself all the time, coding because I like it and connecting because I need!*
+> [!NOTE]
+> *Failing is just another way of finding the right solution.*<br>
+> \- **Thomas Edison**
 
-I'm Ângelo Francisco, programmer and for ever a student. Currently with my 15 years old I'm studying doing the high school in Angola at IMPS(SmartBits Polytechnic Medium Institute) and now I'm here wishing to be a Software Engineer.
+I am a software development enthusiast focused exclusively on creating websites using Python with Django and other associated libraries. My main focus is on developing robust and efficient functionalities, focusing mainly on the back-end of applications.
 <br>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=50px/>
