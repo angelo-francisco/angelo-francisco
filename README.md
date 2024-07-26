@@ -55,7 +55,7 @@ In my journey through technology, I've dedicated myself to mastering software de
 <div align="center">
   
 ![angelo-francisco](https://github-readme-stats.vercel.app/api?username=angelo-francisco&show_icons=true&theme=transparent&hide=commits,contribs)&nbsp;&nbsp; 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317epfmvzitrm2pfbljeeduc42fq&count=2&width=500)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317epfmvzitrm2pfbljeeduc42fq&count=2&width=300)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=angelo-francisco&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=800)](https://git.io/streak-stats)
   
