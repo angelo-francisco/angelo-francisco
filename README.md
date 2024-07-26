@@ -7,19 +7,24 @@
 > [!NOTE]
 > *Failing is just another way of finding the right solution.*<br>
 > \- **Thomas Edison**
-<div align="justify">
+
+<div align="right">
+<img src="https://i.pinimg.com/originals/a1/4d/58/a14d58e39c3d9d59bee3a6d887d197e9.gif" align="right" width="200" height="200">
+</div>
+
+<div align="left">
 
 ### About Me🫠
-In my journey through technology, I've dedicated myself to mastering software development, particularly in crafting robust and scalable solutions that integrate cutting-edge technologies, ensuring not only functionality but also innovation and efficiency in every project.
-  
-<p></p>
 
-\- 🌱 I’m currently learning **Django and DevOps**
-<br>
-\- 👨‍💻 All of my projects are available at [Personal Portifolio](https://portifolio-livid-sigma.vercel.app/)
-<br>
-\- 📫 How to reach me **angelofrancisco08@icloud.com**
+In my journey through technology, I've dedicated myself to mastering software development, particularly in crafting robust and scalable solutions that integrate cutting-edge technologies, ensuring not only functionality but also innovation and efficiency in every project.
+
+- 🌱 I’m currently learning **Django and DevOps**
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://portifolio-livid-sigma.vercel.app/)
+- 📫 How to reach me: **angelofrancisco08@icloud.com**
+
 </div>
+
+  
 ### Languages and Tools 🛠️
 
 <div align="center">
