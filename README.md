@@ -14,12 +14,10 @@
 
 </div>
 
-> [!NOTE]
-> *Failing is just another way of finding the right solution.*<br>
-> \- **Thomas Edison**
+> *My mission is to craft scalable, efficient, and human-centered solutions through technology.*<br>
 
 <div align="right">
-<img src="https://i.pinimg.com/originals/a1/4d/58/a14d58e39c3d9d59bee3a6d887d197e9.gif" align="right" width="200" height="200">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="200" height="200">
 </div>
 
 <div align="left">
@@ -38,25 +36,27 @@ In my journey through technology, I've dedicated myself to mastering software de
 ### Languages and Tools 🛠️
 
 <div align="left">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width=50px/>
+<img src="https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png" width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=50px/>
 </div>
 <br>
 
-### Random 🌟
-<div align="center">
-  
-![angelo-francisco](https://github-readme-stats.vercel.app/api?username=angelo-francisco&show_icons=true&theme=transparent&hide=commits,contribs)&nbsp;&nbsp; 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317epfmvzitrm2pfbljeeduc42fq&count=2&width=300)
+### 📚 Currently Learning
+- Advanced Django Architecture (Services, Repositories)
+- Realtime Communication | Django Channels and Websockets
+- DSA | Data Structures and Algorithms
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=angelo-francisco&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=800)](https://git.io/streak-stats)
-  
-</div>
+### 🚀 Featured Projects
+- [Votox](https://github.com/angelo-francisco/votox) - A real-time polling plataform - create simple and fast polls
+- [MedLib Platform](https://github.com/Nucleo-de-Informatica-do-SmartBits/MedLib) - Virtual library with real-time experience.
+- [Healthing Project](https://github.com/angelo-francisco/healthing) - Medical appointment platform.
+
