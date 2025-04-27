@@ -55,8 +55,3 @@ In my journey through technology, I've dedicated myself to mastering software de
 - Realtime Communication | Django Channels and Websockets
 - DSA | Data Structures and Algorithms
 
-### 🚀 Featured Projects
-- [Votox](https://github.com/angelo-francisco/votox) - A real-time polling plataform - create simple and fast polls
-- [MedLib Platform](https://github.com/Nucleo-de-Informatica-do-SmartBits/MedLib) - Virtual library with real-time experience.
-- [Healthing Project](https://github.com/angelo-francisco/healthing) - Medical appointment platform.
-
