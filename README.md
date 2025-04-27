@@ -29,7 +29,7 @@
 In my journey through technology, I've dedicated myself to mastering software development, particularly in crafting robust and scalable solutions that integrate cutting-edge technologies, ensuring not only functionality but also innovation and efficiency in every project.
 
 - 🌱 I’m currently learning **Django and Algorithms**
-- 👨‍💻 All of my projects are available at [Personal Portfolio](https://angelo-franciscos.vercel.app/)
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://angelo-francisco.vercel.app/)
 - 📫 How to reach me: **angelofrancisco08@icloud.com**
 
 </div>
