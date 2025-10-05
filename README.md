@@ -16,42 +16,15 @@
 
 > *My mission is to craft scalable, efficient, and human-centered solutions through technology.*<br>
 
-<div align="right">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="200" height="200">
-</div>
-
 <div align="left">
 
 ### About Me🫠
 
 In my journey through technology, I've dedicated myself to mastering software development, particularly in crafting robust and scalable solutions that integrate cutting-edge technologies, ensuring not only functionality but also innovation and efficiency in every project.
 
-- 🌱 I’m currently learning **Django and Algorithms**
+- 🌱 I’m currently learning **Computing and Algorithms**
 - 👨‍💻 All of my projects are available at [Personal Portfolio](https://angelo-francisco.vercel.app/)
 - 📫 How to reach me: **angelofrancisco08@icloud.com**
 
 </div>
-
-  
-### Languages and Tools 🛠️
-
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=50px/>
-</div>
-<br>
-
-### 📚 Currently Learning
-- Advanced Django Architecture (Services, Repositories)
-- Realtime Communication | Django Channels and Websockets
-- DSA | Data Structures and Algorithms
 
